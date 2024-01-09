@@ -1,0 +1,4 @@
+This is lab 2 of Computer Networks
+Hello this is Krish Thakrar
+Output is correct
+Code is running fine!
